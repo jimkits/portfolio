@@ -1,5 +1,5 @@
 # Dimitrios Bitsanis
-My personal Portfolio
+I'm a software engineer with over 15 years of experience across quality engineering and full stack development. I've worked at organisations ranging from early stage startups to enterprise scale, including Moody's and Salesforce, building automation frameworks, release pipelines and performance tests. I have a quality first mindset that I bring to product engineering, thinking about failure modes and reliability from day one rather than as an afterthought. I'm currently open to full stack, frontend, backend or quality engineering roles where that combination of engineering depth and delivery experience is genuinely useful.
 
 # Projects
 ## Budgeteer
@@ -15,17 +15,9 @@ Features a dashboard with net worth tracking, per-account balances, a searchable
 
 
 ### Images
-#### Dashboard
-<img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/953e9005-2c57-49ad-80e8-411ca109b502" />
-
-#### Accounts
-<img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/0dc48929-f1a5-4fb7-b100-24ee1dbe6dd6" />
-
-#### Transactions
-<img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/2239fa29-5b7e-40f0-bdb0-204f834161f6" />
-
-#### Insights
-<img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/f381f96f-3726-486f-84f1-ee87766e661a" />
+Dashboard | Accounts | Transactions | Insights
+:--: | :--: | :--: | :--: 
+<img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/953e9005-2c57-49ad-80e8-411ca109b502" /> | <img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/0dc48929-f1a5-4fb7-b100-24ee1dbe6dd6" /> | <img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/2239fa29-5b7e-40f0-bdb0-204f834161f6" /> | <img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/f381f96f-3726-486f-84f1-ee87766e661a" />
 
 ---
 
@@ -33,7 +25,7 @@ Features a dashboard with net worth tracking, per-account balances, a searchable
 A browser-based 3D claw machine game built with Three.js. Players control a claw arm across two axes, drop it on demand, and try to grab plush toys from the pile below — complete with physics, a scoring system, and switchable camera angles.
 Built to explore 3D rendering, real-time input handling, and physics simulation in the browser. The kind of project that's equal parts technical challenge and childhood wish fulfilment.
 
-[Play it now!]([https://dnd-theta-ten.vercel.app/login](https://crane-game-nu.vercel.app/))
+[Play it now!](https://crane-game-nu.vercel.app/)
 
 ### Technologies used:
 - VS Code
@@ -60,9 +52,7 @@ Built as a full stack web app with authentication, a heroes section covering cla
 - C# and XUnit for API unit and integration tests
 
 ### Images
-#### Heroes
-<img width="640" height="496" alt="image" src="https://github.com/user-attachments/assets/635c3ab8-eafe-4038-9253-40300c1bca94" />
 
-#### Monsters
-<img width="648" height="674" alt="image" src="https://github.com/user-attachments/assets/ab843aa5-9930-45f2-bdf2-1fbd644abc05" />
-
+Heroes | Monsters
+:--: | :--: 
+<img width="640" height="496" alt="image" src="https://github.com/user-attachments/assets/635c3ab8-eafe-4038-9253-40300c1bca94" /> | <img width="648" height="674" alt="image" src="https://github.com/user-attachments/assets/ab843aa5-9930-45f2-bdf2-1fbd644abc05" />
