@@ -15,9 +15,19 @@ Features a dashboard with net worth tracking, per-account balances, a searchable
 
 
 ### Images
-Dashboard             |  Accounts | Transactions  | Insights
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img width="287" height="566" alt="image" src="https://github.com/user-attachments/assets/6904f22e-6d5c-4ce0-b339-344e3575d3ef" />  |  <img width="287" height="566" alt="image" src="https://github.com/user-attachments/assets/c87dde49-96f7-4d2a-ae38-35491490ed98" /> | <img width="287" height="566" alt="image" src="https://github.com/user-attachments/assets/3898338c-4827-4c92-86b4-6e10119fbef9" /> | <img width="287" height="566" alt="image" src="https://github.com/user-attachments/assets/550852aa-9e7c-42b1-b9f6-bdda4ea7abd0" />
+#### Dashboard
+<img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/953e9005-2c57-49ad-80e8-411ca109b502" />
+
+#### Accounts
+<img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/0dc48929-f1a5-4fb7-b100-24ee1dbe6dd6" />
+
+#### Transactions
+<img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/2239fa29-5b7e-40f0-bdb0-204f834161f6" />
+
+#### Insights
+<img width="218" height="371" alt="image" src="https://github.com/user-attachments/assets/f381f96f-3726-486f-84f1-ee87766e661a" />
+
+---
 
 ## Claw Machine Simulator
 A browser-based 3D claw machine game built with Three.js. Players control a claw arm across two axes, drop it on demand, and try to grab plush toys from the pile below — complete with physics, a scoring system, and switchable camera angles.
@@ -33,6 +43,8 @@ Play it now! -> https://crane-game-nu.vercel.app/
 ### Images
 <img width="870" height="637" alt="image" src="https://github.com/user-attachments/assets/8e68d87f-38d2-4b47-a0f4-645d2524030b" />
 
+---
+
 ## Dungeons & Dragons compendium
 A themed reference app for Dungeons & Dragons players. Browse hero classes with lore and artwork, and look up monster stat blocks, armour class, hit points, speed, and ability scores, all presented in an authentic D&D aesthetic.
 Built as a full stack web app with authentication, a heroes section covering class descriptions and imagery, and a monsters index with detailed stat blocks for every creature in the compendium.
@@ -45,7 +57,9 @@ Built as a full stack web app with authentication, a heroes section covering cla
 - C# and XUnit for API unit and integration tests
 
 ### Images
-Heroes | Monsters
-:--:|:--:
-<img width="640" height="496" alt="image" src="https://github.com/user-attachments/assets/635c3ab8-eafe-4038-9253-40300c1bca94" /> | <img width="648" height="674" alt="image" src="https://github.com/user-attachments/assets/ab843aa5-9930-45f2-bdf2-1fbd644abc05" />
+#### Heroes
+<img width="640" height="496" alt="image" src="https://github.com/user-attachments/assets/635c3ab8-eafe-4038-9253-40300c1bca94" />
+
+#### Monsters
+<img width="648" height="674" alt="image" src="https://github.com/user-attachments/assets/ab843aa5-9930-45f2-bdf2-1fbd644abc05" />
 
