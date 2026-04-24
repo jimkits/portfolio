@@ -55,4 +55,4 @@ Built as a full stack web app with authentication, a heroes section covering cla
 
 Heroes | Monsters
 :--: | :--: 
-<img width="640" height="496" alt="image" src="https://github.com/user-attachments/assets/635c3ab8-eafe-4038-9253-40300c1bca94" /> | <img width="648" height="674" alt="image" src="https://github.com/user-attachments/assets/ab843aa5-9930-45f2-bdf2-1fbd644abc05" />
+<img width="1662" height="1246" alt="image" src="https://github.com/user-attachments/assets/e6741d0e-c93d-43d2-b579-93c2916a8598" /> | <img width="648" height="674" alt="image" src="https://github.com/user-attachments/assets/ab843aa5-9930-45f2-bdf2-1fbd644abc05" />
