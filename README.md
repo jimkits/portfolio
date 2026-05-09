@@ -71,14 +71,6 @@ A browser-based activity tracker. Plan your trips and share them with your frien
 
 ### Images
 
-Login |
-:--: |
-<img width="650" height="700" alt="image" src="https://github.com/user-attachments/assets/62949f2b-50c3-4966-ab79-4aac5a8074ad" /> |
-
-List |
-:--: |
-<img width="1270" height="792" alt="image" src="https://github.com/user-attachments/assets/722fd2a4-c93e-41b5-8fe3-fd29b5b825dc" /> |
-
-Sharing menu |
-:--: |
-<img width="612" height="474" alt="image" src="https://github.com/user-attachments/assets/a0c2ed9e-c2f1-48c9-9155-1a9f2d226ccd" /> |
+Login | List | Sharing menu |
+:--: | :--: | :--: |
+<img width="325" height="350" alt="image" src="https://github.com/user-attachments/assets/62949f2b-50c3-4966-ab79-4aac5a8074ad" /> | <img width="635" height="396" alt="image" src="https://github.com/user-attachments/assets/722fd2a4-c93e-41b5-8fe3-fd29b5b825dc" /> | <img width="306" height="237" alt="image" src="https://github.com/user-attachments/assets/a0c2ed9e-c2f1-48c9-9155-1a9f2d226ccd" /> |
