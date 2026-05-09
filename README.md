@@ -56,3 +56,29 @@ Built as a full stack web app with authentication, a heroes section covering cla
 Heroes | Monsters
 :--: | :--: 
 <img width="840" height="619" alt="image" src="https://github.com/user-attachments/assets/e17e1223-c656-49f1-be7a-06339d310ae3" /> | <img width="648" height="674" alt="image" src="https://github.com/user-attachments/assets/ab843aa5-9930-45f2-bdf2-1fbd644abc05" />
+
+## Adventure Board
+A browser-based activity tracker. Plan your trips and share them with your friends and family.
+
+### Technologies used:
+| Layer | Tech |
+|---|---|
+| Frontend | Next.js 15 (App Router) + React + Tailwind CSS |
+| Backend | Next.js API Routes + Server Actions |
+| Database | Supabase (Postgres + Auth + Storage + Realtime) |
+| Deployment | Vercel |
+| Testing | Vitest (unit/integration) + Playwright (e2e) |
+
+### Images
+
+Login |
+:--: |
+<img width="650" height="700" alt="image" src="https://github.com/user-attachments/assets/62949f2b-50c3-4966-ab79-4aac5a8074ad" /> |
+
+List |
+:--: |
+<img width="1270" height="792" alt="image" src="https://github.com/user-attachments/assets/722fd2a4-c93e-41b5-8fe3-fd29b5b825dc" /> |
+
+Sharing menu |
+:--: |
+<img width="612" height="474" alt="image" src="https://github.com/user-attachments/assets/a0c2ed9e-c2f1-48c9-9155-1a9f2d226ccd" /> |
